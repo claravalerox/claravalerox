@@ -2,8 +2,8 @@
 - 👀 I’m interested in Data Enginieering, Data Science, IA devOps and Real Estate
 - 🌱 I’m currently learning Data Science, new frameworks
 - 💞️ I’m looking to collaborate on IA DevOps and Maching Learning
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me mmm heare
+- 😄 Pronouns: Just She
 - ⚡ Fun fact: I´m pilot and Data Engineer
 
 <!---
